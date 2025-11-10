@@ -59,10 +59,10 @@ I enjoy working with modern technologies and continuously improving my craft thr
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Phi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight) --> -->
 
 ---
 
