@@ -53,14 +53,14 @@ I enjoy working with modern technologies and continuously improving my craft thr
 ![Authorization](https://img.shields.io/badge/Authorization-1565C0?style=for-the-badge&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-263238?style=for-the-badge&logo=databricks&logoColor=white)
 
----
+<!-- --- -->
 
 <!-- ## 📊 GitHub Stats
 
 ![Phi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight) --> -->
 
----
+<!-- --- -->
 
 ## 📫 Contact
 
